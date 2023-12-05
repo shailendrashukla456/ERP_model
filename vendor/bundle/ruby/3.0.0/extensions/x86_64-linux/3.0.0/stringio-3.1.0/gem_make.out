@@ -1,0 +1,15 @@
+current directory: /home/deepak/Desktop/work/employee/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+/home/deepak/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/deepak/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20231201-4620-h54q5c.rb extconf.rb
+creating Makefile
+
+current directory: /home/deepak/Desktop/work/employee/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" clean
+
+current directory: /home/deepak/Desktop/work/employee/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR="
+compiling stringio.c
+linking shared-object stringio.so
+
+current directory: /home/deepak/Desktop/work/employee/vendor/bundle/ruby/3.0.0/gems/stringio-3.1.0/ext/stringio
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 stringio.so ./.gem.20231201-4620-ug6bp1
